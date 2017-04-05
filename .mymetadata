@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="day25_ee19_02StrutsRegist"
+  id="myeclipse.1488770998443"
+  context-root="/day25_ee19_02StrutsRegist"
+  j2ee-spec="6.0"
+  archive="day25_ee19_02StrutsRegist.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
